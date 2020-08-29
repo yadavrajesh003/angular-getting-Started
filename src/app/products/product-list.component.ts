@@ -25,7 +25,7 @@ export class ProductListComponent {
       "description": "Curved claw steel hammer",
       "price": 8.9,
       "starRating": 4.8,
-      "imageUrl": "assets/images/hammer.png"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/yadavrajesh003/angular-getting-Started@master/hammer.png"
     }
   ];
 
